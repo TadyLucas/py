@@ -1,5 +1,5 @@
 # Python scripting
-
+python (docs)[https://docs.python.org/3/]
 ## Projects
 
 ### Easy
@@ -21,7 +21,6 @@
 - [ ] Yt downloader
 - [ ] Malware analyzer
 - [ ] DNS recon
-- [ ]   
  
 ### Hard
 - [ ] OSINT toolkit
