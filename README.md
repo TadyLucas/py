@@ -4,7 +4,7 @@ python (docs)[https://docs.python.org/3/]
 
 ### Easy
 - [ ] To-Do List
-- [ ] Number guess
+- [x] Number guess
 - [ ] Calc
 - [ ] Countdown
 - [ ] Weather fetch and format
