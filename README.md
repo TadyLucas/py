@@ -7,7 +7,7 @@ python (docs)[https://docs.python.org/3/]
 - [x] Number guess
 - [x] Calc
 - [ ] Countdown
-- [ ] Weather fetch and format
+- [x] Weather fetch and format
 
 
 ### Intermidiate
