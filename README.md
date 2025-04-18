@@ -3,7 +3,7 @@ python (docs)[https://docs.python.org/3/]
 ## Projects
 
 ### Easy
-- [ ] To-Do List
+- [x] To-Do List
 - [x] Number guess
 - [x] Calc
 - [ ] Countdown
